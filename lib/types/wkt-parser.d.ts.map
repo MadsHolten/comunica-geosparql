@@ -1,0 +1,1 @@
+{"version":3,"file":"wkt-parser.d.ts","sourceRoot":"","sources":["../../src/wkt-parser.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,WAAW;IACxB,IAAI,EAAE,YAAY,CAAC;IACnB,WAAW,EAAE,GAAG,CAAA;CACnB;AAED,oBAAY,YAAY;IACpB,KAAK,UAAQ;CAChB;AAED,wBAAgB,QAAQ,CAAC,SAAS,EAAE,MAAM,GAAG,WAAW,GAAC,IAAI,CAS5D"}
